@@ -1,0 +1,22 @@
+#fotos{
+  width: 640px !important;
+  height: 408px !important;
+}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+
+#contenedor{
+  background-color:rgba(255,0,0,0.6);
+}
+
+p {
+    font-family: verdana;
+    font-size: 10px;
+    text-align: justify;
+}
+
+td{
+  font-size: 10px;
+}
